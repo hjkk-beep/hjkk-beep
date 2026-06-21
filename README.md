@@ -26,7 +26,7 @@ I am a passionate Python Developer dedicated to building efficient, scalable, an
 ## 🤝 Connect with Me
 
 * **📍 Location:** Guwahati, Assam, India
-* **💼 LinkedIn:** [linkedin.com/in/Kalpapran Sharma Bordoloi](https://linkedin.com/in/KalpapranSharmaBordoloi)
+* **💼 LinkedIn:** [linkedin.com/in/Kalpapran Sharma Bordoloi](https://www.linkedin.com/in/kalpapran-sharma-1a653b305?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 * **📧 Email:** [beautiboruah33@gmail.com](mailto: beautiboruah33@gmail.com)
 
 ⚡ *Fun fact: "Code is like humor. When you have to explain it, it’s bad."*
